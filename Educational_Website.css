@@ -91,10 +91,9 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    position: fixed;
+    position:sticky;
     z-index: 1;
 }
-
 
 .nav-links {
     list-style-type: none;
